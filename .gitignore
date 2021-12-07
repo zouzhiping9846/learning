@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/webo1/.gradle/
+/webo1/build/
